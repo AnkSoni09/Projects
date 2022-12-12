@@ -1,2 +1,2 @@
 # Projects
-A repository for important project 
+A repository for important projects. 
